@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require "crypto_price_check"
+CLI.new.run
